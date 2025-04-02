@@ -1,11 +1,12 @@
 
-/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    /
-/                         Id da Atividade: S1-B1-4                                 /
-/             Objetivo: <<  Manipulação de Pilha - Implementado HP12c  >>          /
-/                                                                                  /
-/                                  Autor: Rafael Nicolas Campos                    /
-/                                                                   Data:01/04/2025/
-/----------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: S1-B1-4                                 */
+/*             Objetivo: <<  Manipulação de Pilha - Implementado HP12c  >>          */
+/*                                                                                  */
+/*                                  Autor: Rafael Nicolas Campos                    */
+/*                                                                   Data:01/04/2025*/
+/*----------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 #include <stdlib.h>
